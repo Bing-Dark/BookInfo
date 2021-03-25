@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+body {
+	background-color: #EBF6FF;
+}
+
+div.qna {
+	display: inline-block;
+	width: 200px;
+	height: 200px;
+	margin-top: 200px;
+	margin-left: 15%;
+}
+
+div.askcenter {
+	display: inline-block;
+	width: 200px;
+	height: 200px;
+	margin-left: 15%;
+}
+
+div.myask {
+	display: inline-block;
+	width: 200px;
+	height: 200px;
+	margin-left: 15%;
+}
+
+footer{
+	margin-top: 20%;
+	background-color: #8c8c8c;
+}
+
