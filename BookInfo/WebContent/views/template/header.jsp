@@ -37,7 +37,13 @@
 						<a href="#">사회</a>
 					</div>
 				</li>
-				<li><a href="#"><i class="far fa-clipboard"></i> 자유게시판</a></li>
+				<li id="board">
+					<a href="#board"><i class="far fa-clipboard"></i> 자유게시판</a>
+					<div class="category-sub">
+						<a href="#">독자마당</a>
+						<a href="#">추천</a>
+					</div>
+				</li>
 				<li id="qna">
 					<a href="#qna"><i class="fas fa-tools"></i> 고객센터</a>
 					<div class="category-sub">
